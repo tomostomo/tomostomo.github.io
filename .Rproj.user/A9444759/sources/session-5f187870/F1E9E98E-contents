@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: "docs"
+  
+website:
+  title: "Tomoko Oshima"
+  favicon: figs/favicon.png
+  navbar:
+    right:
+      - text: "About"
+        href: about.html
+      - icon: linkedin
+        href: https://www.linkedin.com/in/%E7%9F%A5%E5%AD%90-%E5%A4%A7%E5%B3%B6-95b844272/
+      - icon: YouTube
+        href: https://youtu.be/gP_MhtMLTAc
+    background: "#224B5C"
+    foreground: "#919EA1"
+  page-footer: 
+    center: 
+      - "<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Tomoko Oshima</p>"
+    background: "#D30F4A"
+    foreground: "#FFFFFF"
+  site-url: https://tomostomo.github.io
+  description: "Tomoko Oshima's Personal Website"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+
