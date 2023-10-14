@@ -3,7 +3,7 @@
     "path": "C:/Users/tomo_/Documents/tomostomo.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "284530708",
     "contents": "",
     "dirty": false,
     "created": 1697306197570.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "19:0"
+        "rmdVisualModeLocation": "54:0",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1697305658,
+    "lastKnownWriteTime": 1697309772,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1697305658,
+    "last_content_update": 1697309772388,
     "read_only": false,
     "read_only_alternatives": []
 }
